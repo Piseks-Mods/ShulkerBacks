@@ -1,0 +1,71 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.WHITE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.ORANGE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.MAGENTA_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.LIGHT_BLUE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.YELLOW_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.LIME_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.PINK_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.GRAY_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.SILVER_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.CYAN_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.PURPLE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.BLUE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.BROWN_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.GREEN_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.RED_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.BLACK_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.ENDER_CHEST"
+      },
+      {
+        "value": "Blocks.DEADBUSH"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "wearable_blocks",
+    "namespace": "mod"
+  }
+}

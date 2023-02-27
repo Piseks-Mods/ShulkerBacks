@@ -1,9 +1,44 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "PutOn",
+      "type": "keybind",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "put_on"
+    },
+    {
+      "name": "PutOnShulker",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "put_on_shulker",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ItemPool",
+      "type": "tag",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_pool"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "key.piseks_shulkerbacks.put_on": "Put on item from Main Hand"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -12,17 +47,20 @@
   "workspaceSettings": {
     "modid": "piseks_shulkerbacks",
     "modName": "Pisek\u0027s ShulkerBacks",
-    "version": "1.0.0",
-    "author": "pisek, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1.0.1",
+    "description": "Put your special Shulker Box on your back.",
+    "author": "Písek Pískovec",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/piseks-shulkerbacks",
+    "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "logo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Source code: https://github.com/Piseks-Mods/ShulkerBacks/",
     "modElementsPackage": "cz.pisekpiskovec.shulkerbacks",
     "lockBaseModFiles": false
   },

@@ -1,0 +1,12 @@
+{
+  "_fv": 33,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "U",
+    "keyBindingName": "Put on item from Main Hand",
+    "keyBindingCategoryKey": "inventory",
+    "onKeyPressed": {
+      "name": "PutOnShulker"
+    }
+  }
+}
