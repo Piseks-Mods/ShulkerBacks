@@ -63,10 +63,10 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.16.5",
+    "currentGenerator": "forge-1.18.2",
     "credits": "Source code: https://github.com/Piseks-Mods/ShulkerBacks/",
     "modElementsPackage": "cz.pisekpiskovec.shulkerbacks",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202200234517
+  "mcreatorVersion": 202200348217
 }
